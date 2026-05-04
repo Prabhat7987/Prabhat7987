@@ -41,6 +41,12 @@
 <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,matplotlib,scikitlearn" height="45"/>
 </p>
 
+## 🧩 LeetCode Stats
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/Prabhat7987?theme=dark&font=Englebert" />
+</p>
+
 ---
 
 ## 🚀 Featured Projects
